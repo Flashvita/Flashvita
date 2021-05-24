@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Виталий
-- 👀 I’m interested in  Веб-разработкой
-- 🌱 I’m currently  изучаю  Python,JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vitaliy
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning Python,JS
+- 💞️ I’m want to participate in intresting projects
+- 📫 My pfone - +79094220058
+- Live in Rostov-on-Don
 
 <!---
 Flashvita/Flashvita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
