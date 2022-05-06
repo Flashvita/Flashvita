@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitaliy 
-- My Skills:Python, Django, Celery, Linux, Bootstrap, Git,HTML, CSS
+- My Skills:Python, Django, Celery,Redis, Linux, Bootstrap, Git,HTML, CSS
 - I make out the code for PEP8
 - 📫 My number phone - +79094220058
 - My telegram nick Flashvita
