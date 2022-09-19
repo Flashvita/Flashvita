@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vitaliy 
-- My Skills:Python, Django,Django Rest Framework, Celery, Redis, Linux, Bootstrap, Git, HTML, CSS
+- My Skills:Python, Django, Flask, FastApi,Celery, Redis, Linux
 - I make out the code for PEP8
 - 📫 My email FlasHvita@yandex.ru and vitalijkulesov975@gmail.com
-- phone number 9094220058
+- phone number +7(909)422-00-58
 - telegram nick Flashvita
 - Live in Rostov-on-Don
 
