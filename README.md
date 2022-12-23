@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitaliy 
-- My Skills:Python, Django, Flask, FastApi,Celery, Redis, Linux
+- My Skills:Python, Django, Flask, FastApi,Celery,Scrapy, Redis, Linux
 - I make out the code for PEP8
 - 📫 My email FlasHvita@yandex.ru and vitalijkulesov975@gmail.com
 - phone number +7(909)422-00-58
