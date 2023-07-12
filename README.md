@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitaliy 🇷🇺 Rostov-on-Don
 - My Skills:
     - Languages: Python 😍
-    - Backend frameworks: Django, Django-ninja, Django-Rest-Framework, FastAp
+    - Backend frameworks: Django, Django-ninja, Django-Rest-Framework, FastApi
     - Parsing: Scrapy
     - Frontend: Flet
     - Databases: Redis, Postgresql, Mysql, SqlLite
