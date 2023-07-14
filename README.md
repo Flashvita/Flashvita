@@ -5,7 +5,7 @@
     - Parsing: Scrapy
     - Frontend: Flet
     - Databases: Redis, Postgresql, Mysql, SqlLite
-    - Other technologies: Celery, Linux, Docker,Git
+    - Other technologies: Celery, Linux, Docker, Git, Sentry
 - 📫 FlasHvita@yandex.ru or vitalijkulesov975@gmail.com
 - 📞  +7(909)422-00-58
 - telegram @Flashvita
