@@ -3,7 +3,7 @@
     - Languages: Python 😍
     - Backend: Django, Django-ninja, Django-Rest-Framework, FastApi
     - Frontend: Flet
-    - Databases: Redis, Postgresql, Mysql, SqlLite
+    - Databases: Postgresql, Mysql, SqlLite, Redis
     - Other technologies: Celery, Linux, Docker, Git, Sentry
     - ORM: Django orm, SqlAlchemy, Pony orm
 <!---
