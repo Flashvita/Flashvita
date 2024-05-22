@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Vitaliy 🇷🇺 Rostov-on-Don
 - My Skills:
     - Languages: Python 😍
-    - Backend: Django, Django-ninja, Django-Rest-Framework, FastApi
-    - Frontend: Flet
+    - Backend frameworks: Django, Django-Rest-Framework, Django-ninja, FastApi, Litestar
+    - Frontend frameworks: Flet
     - Databases: Postgresql, Mysql, SqlLite, Redis
-    - Other technologies: Celery, Linux, Docker, Git, Sentry
+    - Other technologies: celery, docker,docker compose, git, sentry
     - ORM: Django orm, SqlAlchemy, Pony orm
 <!---
 Flashvita/Flashvita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
